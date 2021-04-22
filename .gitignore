@@ -1,0 +1,3 @@
+# for cubeide
+Debug/*
+!Debug/*.bin
